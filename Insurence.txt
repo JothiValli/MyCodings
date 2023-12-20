@@ -1,5 +1,4 @@
-Hi git and gitup
-hi again
+
 <html>
 <head>
 <body>
@@ -9,5 +8,6 @@ Ok.I got your text.we plan for code
 </body>
 </head>
 </html>
-i learnt more commands
+
+
 
