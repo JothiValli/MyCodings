@@ -1,0 +1,15 @@
+public class EvenNumber
+{
+public static void main(String[] args)
+{
+System.out.println("Hi from main");
+printEven(1);
+}
+public static int printEven(int n)
+{
+while(n<11)
+{
+System.out.print("Even numbers from 1 to 10 :"+n);
+n++;
+}
+}
